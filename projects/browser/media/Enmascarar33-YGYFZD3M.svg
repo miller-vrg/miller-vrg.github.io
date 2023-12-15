@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="187" viewBox="0 0 375 187">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1508" data-name="Rectángulo 1508" width="375" height="187" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_33" data-name="Enmascarar grupo 33" clip-path="url(#clip-path)">
+    <g id="bg_waves" data-name="bg waves" transform="translate(-64.671 197.658)" opacity="0.5">
+      <path id="Path_3" data-name="Path 3" d="M0-134.973S33.949.477,133.348-14.719,367.687-120.4,434.894-80.1s6.347-140.421,6.347-140.421l-426.3,15.181Z" transform="translate(0.68 -23.277)" fill="#295a83" opacity="0.295"/>
+      <path id="Path_3-2" data-name="Path 3" d="M-29.629-134.973S-63.578.477-162.977-14.719-396.441-149.3-463.648-109s-7.222-111.515-7.222-111.515l426.3,15.181Z" transform="translate(559.541 -36)" fill="#4d8ab9" opacity="0.295"/>
+      <path id="Path_3-3" data-name="Path 3" d="M-29.669-134.973S-63.617.477-163.017-14.719-397.356-120.4-464.563-80.1s-6.347-140.421-6.347-140.421l426.3,15.181Z" transform="translate(531.374 -2.153)" fill="#43a6c1" opacity="0.295"/>
+    </g>
+  </g>
+</svg>
